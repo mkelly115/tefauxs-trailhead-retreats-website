@@ -1,4 +1,4 @@
-import Counter from "../components/Counter";
+import Counter from "../_components/Counter";
 
 export default async function CabinsPage() {
   const res = await fetch("https://jsonplaceholder.typicode.com/users");
