@@ -11,3 +11,4 @@
 2.  Picking jobs to apply too
 3. Cover Letters for all Jobs
 4. Send out apps (0/15)
+5. COMPLETE BY FRIDAY
