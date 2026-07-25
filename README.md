@@ -14,3 +14,4 @@
 5. COMPLETE BY FRIDAY
 
 1. UPDATING RESUME
+2. Hiring Cafe Complete
