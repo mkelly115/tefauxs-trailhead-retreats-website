@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Cabins",
 }
-import CabinCard from "@/app/_components/CabinCard";
+import CabinCard from "../_components/CabinCard";
 
 export default function Page() {
   // CHANGE
