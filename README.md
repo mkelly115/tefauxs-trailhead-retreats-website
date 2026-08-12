@@ -16,3 +16,4 @@
 1. UPDATING RESUME
 2. Hiring Cafe Complete
 3. Mass Job send tomorrow (monday 8/10)
+4. up to 11 Job apps sent
