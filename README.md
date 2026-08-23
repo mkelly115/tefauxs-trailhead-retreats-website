@@ -18,3 +18,4 @@
 3. Mass Job send tomorrow (monday 8/10)
 4. up to 11 Job apps sent
 5. Finish this project and move to TS
+6. Begin Job apps after yogi incident
